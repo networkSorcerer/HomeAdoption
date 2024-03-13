@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+ #item-template{
+	display:none;
+} 
+#map{
+	height: 500px;
+}
+
